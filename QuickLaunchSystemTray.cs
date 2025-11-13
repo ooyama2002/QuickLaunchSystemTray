@@ -367,6 +367,5 @@ namespace QuickLaunchSystemTray
                 base.OnMouseDown(e);
             }
         }
-
     }
 }
